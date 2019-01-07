@@ -1,7 +1,26 @@
 h1 {
-	font-family: Helvetica Neue;
+	font-family: -apple-system,BlinkMacSystemFont,sans-serif;
+	font-size: 45px;
+    font-weight: 300;
 	text-align: center;
+	height: auto;
 	color: black;
+}
+
+h2 {
+	font-family: -apple-system,BlinkMacSystemFont,sans-serif;
+	font-size: 30px;
+    font-weight: 300;
+	text-align: center;
+	height: auto;
+}
+
+h3 {
+	font-family: -apple-system,BlinkMacSystemFont,sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+	text-align: center;
+	height: auto;
 }
 
 p {
